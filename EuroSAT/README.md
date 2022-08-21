@@ -1,7 +1,13 @@
 ## The EuroSAT Dataset
 
+[Link to dataset](https://github.com/phelber/EuroSAT)
+
 - The dataset consists of 64x64 images captured by Sentinel-2A satellite and it has over 27000 images spread across 10 classes.
+
 - The original data consists of hyperspectral images with 13 spectral bands.
+
+- Images are geo-referenced.
+
 
 ### Exploratory Data Analysis
 
