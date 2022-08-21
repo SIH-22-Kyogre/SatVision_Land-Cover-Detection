@@ -15,3 +15,10 @@ Has an accuracy of 96% on unseen data.
 ~92% accuracy on residential areas 
 Can differentiate residential and non-residential areas well.
 Better than ResNet50 at differentiatiating forest areas and water bodies.
+
+VGG16:
+Has an accuracy of 97% on unseen data.
+~95% accuracy on industrial and residential areas.
+Can differentiate residential and non-residential areas well.
+Differentiates forest areas and water bodies better than ResNet50 but not as well as ResNet152v2.
+
