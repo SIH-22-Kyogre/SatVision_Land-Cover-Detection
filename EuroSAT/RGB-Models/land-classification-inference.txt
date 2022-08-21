@@ -5,7 +5,13 @@ Three Deep Learning Models were used for classifying the land cover:
 
 ResNet50:
 Has an accuracy of 94.7% on unseen data.
-~99% accuracy on residential and industrial classes 
+~95% accuracy on residential and industrial areas 
 Can differentiate residential and non-residential areas well.
 Cannot differentiate forest area and water bodies as precisely as other classes.
 
+ResNet152v2:
+Has an accuracy of 96% on unseen data.
+~97% accuracy on industrial areas 
+~92% accuracy on residential areas 
+Can differentiate residential and non-residential areas well.
+Better than ResNet50 at differentiatiating forest areas and water bodies.
