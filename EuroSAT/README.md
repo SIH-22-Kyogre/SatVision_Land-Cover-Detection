@@ -11,15 +11,14 @@
 
 ### Exploratory Data Analysis
 
-- Urban areas (Residential, Industrial and Highways) all have roads and buildings.
+- Urban areas (Residential, Industrial and Highways) have roads and buildings.
 
 - AnnualCrops and PermanentCrops are made up of convex agricultural fields.
 
 - HerbaceaousVegetation, Pasture, and Forests feature natural land cover.
 
-- It may be difficult to distinguish sea bodies (SeaLake, Rivers) from the HerbaceaousVegetation and Forests classes.
+- Sea bodies(SeaLake, Rivers) and forest cover(HerbaceaousVegetation, Forests) appear to be quite similar. The models need to be trained accordingly to distinguish the two.
 
-### Disadvantage of not having additional bands
+### Note: No Near Infra-Red(NIR) Band
 
-- NIR can be used to create an index, visualising the radiation that is present (or not present) in a picture.
-This dataset does not contain the NIR wavelength bands, so this option will not be explored.
+- NIR can be used to create an index to visualize the presence or absence of radiation in a picture. Unfortunately, the dataset does not have NIR bands.
