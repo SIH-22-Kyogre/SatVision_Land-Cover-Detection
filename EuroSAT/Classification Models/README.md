@@ -1,5 +1,4 @@
-This folder contains four highly accurate land cover classification models:
-
+Four deep learning models are proposed for classifying land cover. Three models were trained on RGB bands. The other was trained on all bands of the EuroSAT dataset. 
 ### RGB Bands
 
             1. ResNet50 
