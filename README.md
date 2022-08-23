@@ -24,8 +24,8 @@ The EuroSAT dataset was used to train the models. Three models were trained on R
 
 These model are capable of segmenting a satellite image and obtaining an image mask with colors corresponding to seven classes:
         
-        Urban land: 0,255,255 - Man-made, built up areas with human artifacts (can ignore roads for now which is hard to label)
-        Agriculture land: 255,255,0 - Farms, any planned (i.e. regular) plantation, cropland, orchards, vineyards, nurseries, and ornamental horticultural areas; confined feeding operations.
+        Urban land: 0,255,255 - Man-made, built up areas with human artifacts
+        Agriculture land: 255,255,0 - Farms, any planned (i.e. regular) plantation, cropland, orchards, vineyards.
         Rangeland: 255,0,255 - Any non-forest, non-farm, green land, grass
         Forest land: 0,255,0 - Any land with x% tree crown density plus clearcuts.
         Water: 0,0,255 - Rivers, oceans, lakes, wetland, ponds.
