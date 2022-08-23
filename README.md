@@ -16,7 +16,9 @@ These models are capable of classifying a satellite image into one of ten catego
          Forest
 The EuroSAT dataset was used to train the models. Three models were trained on RGB images. One model was trained on all bands of the EuroSAT dataset.
 
-[insert eurosat image here]
+<p align="center">
+  <img src="Assets/eurosat.JPG">
+</p>
 
 
 ### 2. Land Cover Segmentation
@@ -33,4 +35,7 @@ These model are capable of segmenting a satellite image and obtaining an image m
         Unknown: 0,0,0 - Clouds and others
 The DeepGlobe dataset was used to train the segmentation model. A state-of-the-art CNN was trained on RGB images of the DeepGlobe dataset.
 
-[insert DeepGlobe image here]
+
+<p align="center">
+  <img src="Assets/deepglobe.JPG">
+</p>
