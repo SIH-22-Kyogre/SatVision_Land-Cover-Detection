@@ -14,6 +14,8 @@ These models are capable of classifying a satellite image into one of ten catego
          Herbaceous Vegetation
          Pasture
          Forest
+         Annual Crops
+         Permanent Crops
 The EuroSAT dataset was used to train the models. Three models were trained on RGB images. One model was trained on all bands of the EuroSAT dataset.
 
 <p align="center">
