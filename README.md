@@ -1,4 +1,6 @@
-# Deep Learning Models for Land Cover Detection
+# Deep Learning and Image Processing for SatVision
+
+## Deep Learning Models for Land Cover Detection
 This repository contains the implementation of the deep learning models used for land cover detection. Two classes of models were developed:
       
 ### 1. Land Cover Classification
