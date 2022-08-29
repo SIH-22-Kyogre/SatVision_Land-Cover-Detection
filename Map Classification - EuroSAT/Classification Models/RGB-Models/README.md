@@ -1,8 +1,17 @@
 Three Deep Learning Models were used for classifying land cover using RGB images:
-1. ResNet50
-2. ResNet152v2
-3. VGG16
-4. EfficientNet-B0
+1. ShuffleNet
+2. ResNet50
+3. ResNet152v2
+4. VGG16
+5. EfficientNet-B0
+
+## ShuffleNet
+
+- Has an accuracy of 86.7% on unseen data.
+- ~80% accuracy on residential and industrial areas 
+- Cannot differentiate residential and non-residential areas well.
+- Cannot differentiate between forest areas and water bodies.
+
 
 ## ResNet50
 
@@ -17,7 +26,7 @@ Three Deep Learning Models were used for classifying land cover using RGB images
 - ~97% accuracy on industrial areas.    
 - ~92% accuracy on residential areas.    
 - Can differentiate residential and non-residential areas well.
-- Better than ResNet50 at differentiating forest areas and water bodies.
+- Better than ResNet50 at differentiating forest areas and water bodies well.
 
 ## VGG16
 
