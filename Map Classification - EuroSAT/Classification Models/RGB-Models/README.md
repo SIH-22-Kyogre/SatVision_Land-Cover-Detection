@@ -33,3 +33,11 @@ Three Deep Learning Models were used for classifying land cover using RGB images
 - Can differentiate residential and non-residential areas well.
 - Differentiates forest areas and water bodies better than ResNet50 but not as well as ResNet152v2.
 - Has a very small size of only 16MB.
+
+## EfficientNet-B1
+
+- Has an accuracy of 99% on unseen data.
+- ~99% accuracy on industrial and residential areas.
+- Can differentiate residential and non-residential areas well.
+- Differentiates forest areas and water bodies better than ResNet50 but not as well as ResNet152v2.
+- Has a reasonable size of 80MB.
