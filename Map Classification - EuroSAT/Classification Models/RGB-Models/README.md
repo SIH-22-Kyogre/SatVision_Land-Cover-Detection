@@ -1,9 +1,10 @@
-Three Deep Learning Models were used for classifying land cover using RGB images:
+Six Deep Learning Models were used for classifying land cover using RGB images:
 1. ShuffleNet
 2. ResNet50
 3. ResNet152v2
 4. VGG16
 5. EfficientNet-B0
+6. EfficientNet-B1
 
 ## ShuffleNet
 
